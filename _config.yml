@@ -1,8 +1,6 @@
 theme: jekyll-theme-midnight
 title: gmu-crg
-description: This is the webpage for the Cryptography Reading Group at George 
-Mason University. We meet weekly to discuss foundational topics, classical 
-results and emerging ideas in cryptography.
+description: This is the webpage for the Cryptography Reading Group at George Mason University. We meet weekly to discuss foundational topics, classical results and emerging ideas in cryptography.
 
 plugins:
   - jekyll-relative-links
