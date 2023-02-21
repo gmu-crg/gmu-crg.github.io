@@ -1,9 +1,11 @@
+# **Welcome**
+
+This is the webpage for the Cryptography Reading Group at George Mason University. We meet weekly to discuss foundational topics, classical results and emerging ideas in cryptography.
 
 <br/>
 
 ## **Schedule**
 
-<br/>
 
 |  |
 |--|
