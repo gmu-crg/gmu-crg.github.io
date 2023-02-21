@@ -5,29 +5,28 @@ University. We meet weekly to discuss foundational topics, classical results and
 emerging ideas in cryptography.
 
 ## **Schedule**
-### **Spring 2023**
---------------------------------------------------------------------------------
-### **Monday, February 27**
+
+### **Monday, February 27, 2023**
 [Algebra for Cryptography](./sp-23/talk-1.md)<br/>
 Daniel McVicker<br/>
 
-### **Monday, March 6**
+### **Monday, March 6, 2023**
 [TBA](#)<br/>
 TBA<br/>
 
-### **Monday, March 13**
+### **Monday, March 13, 2023**
 [TBA](#)<br/>
 TBA<br/>
 
-### **Monday, March 20**
+### **Monday, March 20, 2023**
 [TBA](#)<br/>
 TBA<br/>
 
-### **Monday, March 27**
+### **Monday, March 27, 2023**
 [TBA](#)<br/>
 TBA<br/>
 
-### **Monday, April 3**
+### **Monday, April 3, 2023**
 [TBA](#)<br/>
 TBA<br/>
 
