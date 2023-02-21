@@ -1,4 +1,4 @@
-# **Welcome**
+<br/>
 
 This is the webpage for the Cryptography Reading Group at George Mason University. We meet weekly to discuss foundational topics, classical results and emerging ideas in cryptography.
 
@@ -9,7 +9,7 @@ This is the webpage for the Cryptography Reading Group at George Mason Universit
 
 |  |
 |--|
-| <br/>**Monday, February 27, 2023**<br/>[Algebra for Cryptography](./sp-23/talk-1.md)<br/>Daniel McVicker<br/><br/> |
+| <br/>**Monday, February 27, 2023**<br/>[Algebra for Cryptography](./sp-23/talk-1)<br/>Daniel McVicker<br/><br/> |
 | <br/>**Monday, March 6, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
 | <br/>**Monday, March 13, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
 | <br/>**Monday, March 20, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
