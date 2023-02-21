@@ -21,7 +21,7 @@ TBA
 --------------------------------------------------------------------------------
 <br/>
 
-[`$ cd ..`](../readme)
+[```$ cd ..```](../readme)
 
 <!---
 A note on formatting: while there is no fixed format for maintaining this page 
