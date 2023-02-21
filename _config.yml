@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
-title: 
-description: ~/gmu/crg
+title: ~/gmu/crg
+description: 
 
 plugins:
   - jekyll-relative-links
