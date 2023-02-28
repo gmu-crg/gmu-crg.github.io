@@ -6,17 +6,17 @@ Monday, February 27 2023
 
 ### **Abstract**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-incididunt ut labore et dolore magna aliqua. Orci sagittis eu volutpat odio 
-facilisis mauris sit amet. Tellus pellentesque eu tincidunt tortor. Dignissim 
-suspendisse in est ante in nibh mauris cursus mattis. Tellus integer feugiat 
-scelerisque varius morbi enim.
+Topics in abstract algebra essential to public key cryptography are discussed. 
+Particular focus is on key results and how they relate to classical 
+cryptosystems as well as emerging trends in lattice based cryptogrpahy, 
+homomorphic encryption and coding theory.
 
 <br/>
 
-### **Reading List**
+### **Materials**
 
-TBA
+[`slides `](#)&bull;&nbsp;&nbsp;[`videos`](#)
+
 
 --------------------------------------------------------------------------------
 <br/>

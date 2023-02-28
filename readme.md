@@ -10,8 +10,7 @@ This is the webpage for the Cryptography Reading Group at George Mason Universit
 |  |
 |--|
 | <br/>**Monday, February 27, 2023**<br/>[Algebra for Cryptography](./sp-23/talk-1)<br/>Daniel McVicker<br/><br/> |
-| <br/>**Monday, March 6, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
-| <br/>**Monday, March 13, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
+| <br/>**Monday, March 6, 2023**<br/>[Isogenies of Elliptic Curves](./sp-23/talk-2)<br/>Nathaniel Gordon Moyer<br/><br/> |
 | <br/>**Monday, March 20, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
 | <br/>**Monday, March 27, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
 | <br/>**Monday, April 3, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
