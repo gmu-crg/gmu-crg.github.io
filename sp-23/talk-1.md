@@ -15,7 +15,7 @@ homomorphic encryption and coding theory.
 
 ### **Materials**
 
-[`slides `](#)&bull;&nbsp;&nbsp;[`videos`](#)
+[`slides `](https://drive.google.com/file/d/1vpify94w2LBvu5Rc2haquJKi3Bv-V_8B/view?usp=share_link)&bull;&nbsp;&nbsp;[`video `](https://gmuedu-my.sharepoint.com/:v:/g/personal/dmcvicke_gmu_edu/EW5gUIfaVgBHkK0yjgzZ68kBStla5f-t55gC1rkPf2cy0g?e=kJBdxc)&bull;&nbsp;&nbsp;[`transcript`](https://gmuedu-my.sharepoint.com/:u:/g/personal/dmcvicke_gmu_edu/ET1vbA0R93dPj67TL0zZQdoBCl7mf3VJ3DMFWZqpdvcr8Q?e=q59lwb)
 
 
 --------------------------------------------------------------------------------

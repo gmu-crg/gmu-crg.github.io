@@ -6,23 +6,17 @@ Monday, March 6 2023
 
 ### **Abstract**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-incididunt ut labore et dolore magna aliqua. Orci sagittis eu volutpat odio 
-facilisis mauris sit amet. Tellus pellentesque eu tincidunt tortor. Dignissim 
-suspendisse in est ante in nibh mauris cursus mattis. Tellus integer feugiat 
-scelerisque varius morbi enim
-
-<br/>
-
-### **Reading List**
-
-TBA
+This talk serves as an introduction to cryptography based on isogenies of 
+elliptic curves. An overview of elliptic curves, as well as their isogenies is 
+given. Following this, a presentation on the (now broken) NIST-PQC submission 
+SIKE is reviewed. We conclude with a discussion on the key-recovery attack by 
+Castryck and Decru.
 
 <br/>
 
 ### **Materials**
 
-[`slides`](#)&nbsp;&nbsp;&bull;&nbsp;&nbsp;[`videos`](#)&nbsp;&nbsp;&bull;&nbsp;&nbsp;[`notes`](#)
+[`video`](https://www.youtube.com/watch?v=9B7jq7Mgiwc)
 
 --------------------------------------------------------------------------------
 <br/>

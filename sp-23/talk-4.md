@@ -1,6 +1,6 @@
 ## **[Computational Problems in Lattices](#)**
 ### Aayush Yadav, George Mason University
-Monday, March 27 2023
+Monday, April 3 2023
 
 --------------------------------------------------------------------------------
 
@@ -8,15 +8,13 @@ Monday, March 27 2023
 
 In this two-part lecture, we will attempt to address two fundamental questions — 
 what are lattices, and what makes them cryptographically interesting? For the 
-first part, we review the mathematical background, introduce the shortest vector 
-problem and consider the LLL algorithm, all the while building towards modern 
-foundations of lattice-based cryptography.
+second part [...]
 
 <br/>
 
 ### **Reading List**
 
-[1] _Notes for Seminar on Lattices In Cryptography_ (1-7), Chris Peikert (2022) 
+[1] _Notes for Seminar on Lattices In Cryptography_ (8-14), Chris Peikert (2022) 
 &bull;&nbsp;&nbsp;[`url`](https://github.com/cpeikert/LatticesInCryptography)
 <br/>
 
