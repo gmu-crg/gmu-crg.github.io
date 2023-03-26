@@ -1,4 +1,4 @@
-## **[Introduction to Lattice Cryptography](#)**
+## **[Computational Problems in Lattices](#)**
 ### Aayush Yadav, George Mason University
 Monday, March 27 2023
 
