@@ -9,7 +9,7 @@ Monday, March 27 2023
 In this two-part lecture, we will attempt to address two fundamental questions — 
 what are lattices, and what makes them cryptographically interesting? For the 
 first part, we review the mathematical background, introduce the shortest vector 
-problem and consider the LLL algorithm, all the while building towards modern 
+problem and consider the LLL algorithm, all with an eye towards modern 
 foundations of lattice-based cryptography.
 
 <br/>
