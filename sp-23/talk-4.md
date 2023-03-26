@@ -1,4 +1,4 @@
-## **[Computational Problems in Lattices](#)**
+## **[Computational Problems on Lattices](#)**
 ### Aayush Yadav, George Mason University
 Monday, April 3 2023
 
