@@ -20,7 +20,7 @@ This is the webpage for the Cryptography Reading Group at George Mason Universit
 
 ## **Contact**
 
-Interested in joining or giving a talk? Please reach out!
+Interested in joining or giving a talk? Get in touch!
 
 - Nathaniel Moyer:&nbsp;`nmoyer5 [at] gmu [dot] edu`
 - Aayush Yadav:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`aayushy [at] duck [dot] com`
