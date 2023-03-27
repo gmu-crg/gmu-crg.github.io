@@ -22,7 +22,7 @@ foundations of lattice-based cryptography.
 
 ### **Materials**
 
-[`videos`](#)&nbsp;&nbsp;&bull;&nbsp;&nbsp;[`notes`](#)
+[`videos`](#)&nbsp;&nbsp;&bull;&nbsp;&nbsp;[`notes`](../notes/talk-3)
 
 --------------------------------------------------------------------------------
 <br/>
