@@ -14,7 +14,7 @@ second part [...]
 
 ### **Reading List**
 
-[1] _Notes for Seminar on Lattices In Cryptography_ (8-14), Chris Peikert (2022) 
+[1] _Notes for Seminar on Lattices In Cryptography_ (...), Chris Peikert (2022) 
 &bull;&nbsp;&nbsp;[`url`](https://github.com/cpeikert/LatticesInCryptography)
 <br/>
 

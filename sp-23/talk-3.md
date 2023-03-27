@@ -16,7 +16,7 @@ foundations of lattice-based cryptography.
 
 ### **Reading List**
 
-[1] _Notes for Seminar on Lattices In Cryptography_ (1-7), Chris Peikert (2022) 
+[1] _Notes for Seminar on Lattices In Cryptography_ (1-4), Chris Peikert (2022) 
 &bull;&nbsp;&nbsp;[`url`](https://github.com/cpeikert/LatticesInCryptography)
 <br/>
 
