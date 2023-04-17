@@ -8,19 +8,14 @@ Monday, April 3 2023
 
 In this two-part lecture, we will attempt to address two fundamental questions — 
 what are lattices, and what makes them cryptographically interesting? For the 
-second part [...]
+second part we will focus on the Short Integer Solution (SIS) problem, and look 
+at the worst-case to average-case reduction for SIS.
 
-<br/>
-
-### **Reading List**
-
-[1] _Notes for Seminar on Lattices In Cryptography_ (...), Chris Peikert (2022) 
-&bull;&nbsp;&nbsp;[`url`](https://github.com/cpeikert/LatticesInCryptography)
 <br/>
 
 ### **Materials**
 
-[`videos`](#)&nbsp;&nbsp;&bull;&nbsp;&nbsp;[`notes`](#)
+[`video`](https://youtu.be/P3I3kCJedIo)&nbsp;&nbsp;&bull;&nbsp;&nbsp;[`notes`](https://tinyurl.com/gmu-crg-3)
 
 --------------------------------------------------------------------------------
 <br/>

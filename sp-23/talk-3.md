@@ -22,7 +22,7 @@ foundations of lattice-based cryptography.
 
 ### **Materials**
 
-[`videos`](#)&nbsp;&nbsp;&bull;&nbsp;&nbsp;[`notes`](https://tinyurl.com/gmu-crg-3)
+[`notes`](https://tinyurl.com/gmu-crg-3)
 
 --------------------------------------------------------------------------------
 <br/>
