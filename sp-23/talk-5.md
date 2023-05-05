@@ -1,5 +1,5 @@
 ## **[Adaptor Signatures for ECDSA and Schnorr](#)**
-### Alessandro Rizzo, \<Affiliation>
+### Alessandro Rizzo, University of Padua
 Monday, April 10 2023
 
 --------------------------------------------------------------------------------

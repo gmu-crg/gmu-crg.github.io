@@ -15,8 +15,6 @@ This is the webpage for the Cryptography Reading Group at George Mason Universit
 | <br/>**Monday, April 3, 2023**<br/>[Computational Problems on Lattices](./sp-23/talk-4)<br/>Aayush Yadav<br/><br/> |
 | <br/>**Monday, April 10, 2023**<br/>[Adaptor Signatures for ECDSA and Schnorr](/sp-23/talk-5)<br/>Alessandro Rizzo<br/><br/> |
 | <br/>**Monday, April 17, 2023**<br/>[Fuzzing Techniques](/sp-23/talk-6)<br/>Zifan Qu<br/><br/> |
-| <br/>**Monday, April 24, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
-| <br/>**Monday, May 1, 2023**<br/>[TBA](#)<br/>TBA<br/><br/> |
 
 <br/>
 
